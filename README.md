@@ -1,4 +1,4 @@
-# AWS-Practice-Terraform
+# AWS-Practice/Terraform
 A short AWS and Terraform Project
 
 First I started by installing and verifying Terraform
